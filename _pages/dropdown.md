@@ -10,4 +10,7 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+  - title: divider
+  - title: ogród wiedzy
+      permalink: http://www.quartz.skszymon.eu
 ---
